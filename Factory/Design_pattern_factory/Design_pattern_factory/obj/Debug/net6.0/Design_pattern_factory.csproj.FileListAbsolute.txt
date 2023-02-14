@@ -1,0 +1,15 @@
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\bin\Debug\net6.0\Design_pattern_factory.exe
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\bin\Debug\net6.0\Design_pattern_factory.deps.json
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\bin\Debug\net6.0\Design_pattern_factory.runtimeconfig.json
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\bin\Debug\net6.0\Design_pattern_factory.dll
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\bin\Debug\net6.0\Design_pattern_factory.pdb
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\obj\Debug\net6.0\Design_pattern_factory.csproj.AssemblyReference.cache
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\obj\Debug\net6.0\Design_pattern_factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\obj\Debug\net6.0\Design_pattern_factory.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\obj\Debug\net6.0\Design_pattern_factory.AssemblyInfo.cs
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\obj\Debug\net6.0\Design_pattern_factory.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\obj\Debug\net6.0\Design_pattern_factory.dll
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\obj\Debug\net6.0\refint\Design_pattern_factory.dll
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\obj\Debug\net6.0\Design_pattern_factory.pdb
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\obj\Debug\net6.0\Design_pattern_factory.genruntimeconfig.cache
+C:\Users\Adam\Desktop\git\design_pattern\design-pattern\Factory\Design_pattern_factory\Design_pattern_factory\obj\Debug\net6.0\ref\Design_pattern_factory.dll
