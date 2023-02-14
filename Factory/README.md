@@ -74,7 +74,7 @@ public class OriCode
 
 專案規模小又簡單時，維護起來還可行，但當專案規模擴大時，同樣的design又出現在多個地方 ex: `apiTotalWaitTime(string[] objNames)`，基本上每天要修改這些就飽哩。
 
-因此需要使用統整與分離的技巧(甩鍋)
+因此需要使用統整與分離的技巧~~甩鍋~~
 
 ---
 
@@ -159,20 +159,28 @@ public class Factory
 
 ````
 
-### 工廠模式優缺點
-#### 缺點
-代碼變多。
+### 工廠模式優缺點：
+#### 缺點：
+* 代碼變多。
 
-對於初學者，需要的知識量增加。
+* 對於初學者，需要的知識量增加。
 
-#### 優點
+#### 優點：
 
-方便單元測試，可以直接對單一工廠或產品進行測試。
+* 方便單元測試，可以直接對單一工廠或產品進行測試。
 
-好擴展，直接增加個類別即可。
+* 好擴展，直接增加個類別即可。
 
-#### Addtion
+#### Addtion:
 至於工廠中的if else，後續可以用控制反轉(IOC) 中的依賴注入(DI) 大幅的優化。
+
+### Reference:
+古城算法：
+https://www.youtube.com/watch?v=zetPjxB7yhc&t=1s
+
+Factory Design Pattern by Derek Banas:
+https://youtu.be/ub0DXaeV6hA
+
 
 ---
 
